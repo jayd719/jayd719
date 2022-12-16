@@ -1,8 +1,6 @@
 # Hi there, I'm JD 👋 
 
 <img src ='https://www.cimco.com/wp-content/uploads/2019/08/homepage-banner-bg-cimco.jpg'>
-<br/>
-<br/>
 
 ## I'm a Manufacturing Engineer and a Python Programmer
 
