@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm **Jashandeep Singh** 👨‍💻, a highly motivated Computer Science student (Year 3) at Wilfrid Laurier University, Waterloo. With a unique blend of 5 years of manufacturing engineering experience and a passion for software development, I am dedicated to applying innovative solutions to real-world problems. My expertise spans various programming languages, web development frameworks, and operating systems.
+Hello! I'm **JD** 👨‍💻
 
 ## 🛠️ Skills
 
