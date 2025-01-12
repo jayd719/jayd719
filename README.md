@@ -48,9 +48,6 @@ Hello! I'm **JD** 👨‍💻
   Completed: August 2019  
   Diploma in Automated Manufacturing
 
-## 💼 Experience
-
-### Manufacturing Engineer (June 2019 - May 2024)  
 
 
 ## 📚 Projects
