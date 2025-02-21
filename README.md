@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JD!
+# 👋 Hi, I'm Jashandeep Singh!
 
 💻 **Software Developer | Machine Learning Enthusiast | Full-Stack Developer**  
 
@@ -7,14 +7,51 @@ I am passionate about **building scalable software solutions**, **optimizing dev
 ---
 
 ## 🔧 Technical Skills  
-- **Languages:** C#, C/C++, JavaScript, Python, SQL  
-- **AI/ML:** Scikit-learn, TensorFlow  
-- **Data Analysis:** Pandas, Matplotlib, NumPy  
-- **Cloud & DevOps:** AWS (EC2, Route 53, S3), Docker, Nginx  
-- **Web Development:** ASP.Net, Django, Flask, Tailwind CSS  
-- **Development Tools:** Git, REST APIs, Postman, OpenPyXL, OpenCV  
-- **Databases:** MongoDB, MySQL  
-- **Methodologies:** Agile, Scrum, TDD  
+
+### 🚀 Programming Languages  
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🤖 AI/ML & Data Analysis  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Route 53](https://img.shields.io/badge/-Route%2053-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)  
+
+### 🌐 Web Development  
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### 🛠 Development Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![REST API](https://img.shields.io/badge/-REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![OpenPyXL](https://img.shields.io/badge/-OpenPyXL-1E88E5?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 📜 Methodologies  
+![Agile](https://img.shields.io/badge/-Agile-32A852?style=for-the-badge&logo=agile&logoColor=white)  
+![Scrum](https://img.shields.io/badge/-Scrum-00A6DA?style=for-the-badge&logo=scrumalliance&logoColor=white)  
+![TDD](https://img.shields.io/badge/-TDD-FF5733?style=for-the-badge&logo=testng&logoColor=white)  
 
 ---
 
@@ -28,33 +65,13 @@ Conestoga College, Cambridge, ON
 ---
 
 ## 🚀 Projects  
-🔹 **Automated Data Processing & Reporting System**  
-📌 *Technologies:* Python, Pandas, Openpyxl, JobBoss E2 API  
-- Built a Python-based application to automate ERP data extraction, reducing manual work by 90%.  
-- Integrated real-time data fetching for dynamic reporting.  
-
-🔹 **Food Ordering Web App**  
-📌 *Technologies:* C#, .NET, SQL, JavaScript, HTML/CSS  
-- Developed a full-stack ordering platform with secure OAuth 2.0 authentication.  
-- Integrated MySQL for order and customer data management.  
-
-🔹 **Personal Portfolio Website**  
-📌 *Technologies:* Django, JavaScript, MySQL, AWS (EC2, Route 53), Apache, SSL  
-- Hosted a personal portfolio showcasing projects and skills.  
-- Implemented SSL encryption and optimized cloud scalability.  
-
 📌 *Check out my projects on [GitHub](https://github.com/jayd719)!* 🚀  
 
 ---
 
 ## 💼 Work Experience  
 👨‍🏫 **Teaching Assistant - Data Structures** *(Wilfrid Laurier University, Sept 2023 - Dec 2023)*  
-- Led lab sessions, helping students understand complex algorithms.  
-- Provided debugging support and coding feedback.  
-
 ⚙️ **Manufacturing Engineer** *(Canadian Babbitt Bearings, 2019 - 2024)*  
-- Created CNC programs for multi-axis machining centers.  
-- Managed production schedules and optimized workflows.  
 
 ---
 
@@ -74,4 +91,3 @@ Conestoga College, Cambridge, ON
 ---
 
 🚀 *"Striving for innovation, efficiency, and impactful software solutions."*  
-
