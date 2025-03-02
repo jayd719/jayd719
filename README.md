@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jashandeep Singh!
+# 👋 Hi, I'm JD!
 
 💻 **Software Developer | Machine Learning Enthusiast | Full-Stack Developer**  
 
